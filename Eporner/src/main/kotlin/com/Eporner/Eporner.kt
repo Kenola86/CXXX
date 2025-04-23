@@ -24,7 +24,7 @@ class Eporner : MainAPI() {
             "cat/public" to "Public",
             "cat/petite" to "Petite",
             "cat/massage" to "Massage",
-            "cat/4k-porn" to "4K Porn",
+            "cat/teen" to "teen",
             "recommendations" to "Recommendation Videos",
         )
 
