@@ -18,13 +18,13 @@ class FullPorner : MainAPI() {
 
     override val mainPage = mainPageOf(
         "${mainUrl}/home/"                to "Featured",
-        "${mainUrl}/category/amateur/"    to "Amateur",
+        "${mainUrl}/category/outdoor/"    to "Outdoor",
         "${mainUrl}/category/teen/"       to "Teen",
-        "${mainUrl}/category/cumshot/"    to "CumShot",
-        "${mainUrl}/category/deepthroat/" to "DeepThroat",
-        "${mainUrl}/category/orgasm/"     to "Orgasm",
+        "${mainUrl}/category/school-girl/"    to "School Girl",
+        "${mainUrl}/category/petite/" to "Petite",
+        "${mainUrl}/category/public/"     to "Public",
         "${mainUrl}/category/threesome/"  to "ThreeSome",
-        "${mainUrl}/category/group-sex/"  to "Group Sex",
+        "${mainUrl}/category/czech-massage/"  to "Massage",
     )
 
     override suspend fun getMainPage(page: Int, request: MainPageRequest): HomePageResponse {
