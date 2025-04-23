@@ -21,9 +21,9 @@ class Eporner : MainAPI() {
             "best-videos" to "Best Videos",
             "top-rated" to "Top Rated",
             "most-viewed" to "Most Viewed",
-            "cat/milf" to "Milf",
-            "cat/japanese" to "Japanese",
-            "cat/hd-1080p" to "1080 Porn",
+            "cat/public" to "Public",
+            "cat/petite" to "Petite",
+            "cat/massage" to "Massage",
             "cat/4k-porn" to "4K Porn",
             "recommendations" to "Recommendation Videos",
         )
