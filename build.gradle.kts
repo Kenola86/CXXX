@@ -39,7 +39,7 @@ subprojects {
     }
 
     android {
-        namespace = "com.Phisher98"
+        namespace = "com.Kenola86"
 
         defaultConfig {
             minSdk = 21
